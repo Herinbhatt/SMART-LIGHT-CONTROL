@@ -46,3 +46,5 @@ Concept: This project demonstrates a fundamental smart lighting system where an 
 
 - Connect the negative (shorter) leg of the LED to a GND (ground) pin on the ESP32.
 
+![Image](https://github.com/user-attachments/assets/f32aa432-dec7-4872-9239-ea7caf579ceb)
+
