@@ -71,6 +71,7 @@ Concept: This project demonstrates a fundamental smart lighting system where an 
 - Tap the back arrow to save the settings.
 
   ![Image](https://github.com/user-attachments/assets/539747d5-6788-43ca-9747-f5e39afc3163)
+  ![Image](https://github.com/user-attachments/assets/11d04469-6dba-4702-a9c4-2d7039879ec5)
   
 **How to Run the Project:**
 
