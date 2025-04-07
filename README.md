@@ -34,11 +34,15 @@ Concept: This project demonstrates a fundamental smart lighting system where an 
 
 - Arduino IDE (with ESP32 board support installed)
 
-**Wiring Diagram:**
-
-
-  
 - Blynk Library installed in Arduino IDE
 
 - Blynk Mobile Application (available for Android and iOS)
+
+**Wiring Diagram:**
+
+- Connect the positive (longer) leg of the LED to one end of the 220-ohm resistor.
+
+- Connect the other end of the resistor to one of the digital output pins on the ESP32 (e.g., GPIO 2).
+
+- Connect the negative (shorter) leg of the LED to a GND (ground) pin on the ESP32.
 
