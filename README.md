@@ -69,6 +69,8 @@ Concept: This project demonstrates a fundamental smart lighting system where an 
 - Mode: Choose "SWITCH" if you want a toggle button (ON/OFF) or "PUSH" if you want the light to be ON only while the button is pressed. "SWITCH" is generally better for light control.
 - Output: Set "ON" to 1 and "OFF" to 0.
 - Tap the back arrow to save the settings.
+
+  ![Image](https://github.com/user-attachments/assets/539747d5-6788-43ca-9747-f5e39afc3163)
   
 **How to Run the Project:**
 
