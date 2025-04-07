@@ -30,3 +30,15 @@ Concept: This project demonstrates a fundamental smart lighting system where an 
   
 - Breadboard
 
+**Software:**
+
+- Arduino IDE (with ESP32 board support installed)
+
+**Wiring Diagram:**
+
+
+  
+- Blynk Library installed in Arduino IDE
+
+- Blynk Mobile Application (available for Android and iOS)
+
